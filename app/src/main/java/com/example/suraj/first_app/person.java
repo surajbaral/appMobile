@@ -51,6 +51,7 @@ public class person extends AppCompatActivity {
     }
     private void justCheck (){
         int check;
+        int checkchanges;
     }
 }
 
